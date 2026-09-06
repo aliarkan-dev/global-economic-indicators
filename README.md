@@ -13,3 +13,5 @@ This repository contains an automated Python data pipeline and visual analytical
 ### Execution
 The data ingestion script is hosted and executable via Google Colab:
 - View Notebook: [`notebooks/GDP_Growth_Analysis.ipynb`](./notebooks/GDP_Growth_Analysis.ipynb)
+## Research Briefs & Documentation
+* 📄 **[Read Full Research Brief (PDF)](./Macroeconomic_Shifts_Research_Brief.pdf)** — *Macroeconomic Shifts and GDP Dynamics in Emerging & Regional Markets (2015–2025)*
